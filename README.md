@@ -1,2 +1,2 @@
-# Hackerrank_Solved_Problems
+# Hackerrank_Practiced_Problems
 Problem Solving from HackerRank
